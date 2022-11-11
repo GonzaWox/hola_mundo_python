@@ -7,5 +7,5 @@
 # Programa creado para ensayar el correcto funcionamiento
 # del entorno de instalación Python
 
-
-print("Hola Mundo!")
+saludo = "Hola mundo!"
+print(saludo)
